@@ -1,0 +1,12 @@
+[
+    {
+        "platform": "Catalina",
+        "browserName": "chrome",
+        "version": "latest",
+        "visual": "true",
+        "name": "SmartUi Transparency Test",
+        "build": "Smart Ui Transparency Build 10",
+        "smartUI.project": "Smart_UI_10",
+        "selenium_version": "4.0.0"
+    }
+]
